@@ -1,0 +1,89 @@
+
+[alerts]
+
+	[alerts.enemy_breaking_mid]
+		alert_when_team_block_is_broken = true
+		alert_when_enemy_block_is_placed = true
+		enemy_breaking_mid_alert = true
+		mid_breaking_alert = true
+		mid_breaking_alert_color = 2
+		enemy_breaking_mid_alert_color = 2
+
+	[alerts.enemy_placing]
+		alert_when_enemy_block_is_placed = true
+		enemy_placing_alert_color = 4
+
+	[alerts.extra]
+		all_mid_updates_chat_messages = true
+
+	[alerts.team_broken]
+		team_block_broken_alert_color = 2
+		alert_when_team_block_is_broken = false
+
+	[alerts.one_enemy_remaining]
+		one_enemy_remaining_alert_color = 7
+		one_enemy_remaining_alert = true
+
+	[alerts.last_player]
+		last_player_alive_alert = true
+		last_player_alive_alert_color = 1
+
+[player_blacklist]
+	enable_blacklist_players = false
+	blacklisted_player_names = ""
+
+[round_timer]
+
+	[round_timer.timer]
+		enable_round_timer = true
+		select_round_timer = 1
+
+	[round_timer.gui]
+		timer_gui_scale = 50
+		enable_on_screen_timer = true
+
+[discord_rpc]
+	enable_discord_rpc = true
+	idle_status_message = "gaming"
+
+[stats]
+	enable_death_log = true
+	enable_kill_log = true
+	enable_kd_log = true
+
+[map_blacklist]
+
+	[map_blacklist.map_blacklist]
+		blacklist_kingspass = false
+		blacklist_fracture = false
+		blacklist_histoire = false
+		blacklist_temple = false
+		blacklist_arches = false
+		blacklist_underworld = false
+		blacklist_sun_shrine = false
+		blacklist_plummet = false
+		blacklist_stoneguard = false
+		blacklist_belle = false
+		blacklist_courtyard = false
+		blacklist_patio = false
+		blacklist_factory = false
+		blacklist_ruin = false
+		enable_blacklist_maps = false
+		blacklist_retro = false
+		blacklist_lava = false
+		blacklist_aztec = false
+		blacklist_blocks = false
+		blacklist_shipment = false
+		blacklist_district = false
+		blacklist_tumble = false
+		blacklist_steel_works = false
+		blacklist_dust = false
+		blacklist_hilltop = false
+		blacklist_galactic = false
+		blacklist_anubis = false
+
+[chat]
+
+	[chat.extras]
+		all_mid_updates_chat_messages = true
+
