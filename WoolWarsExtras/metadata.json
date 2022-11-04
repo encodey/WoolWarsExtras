@@ -1,8 +1,0 @@
-{
-    "name": "WoolWarsExtras",
-    "description": "basic WoolWars features - /ww for more",
-    "author": "encodey",
-    "entry": "index.js",
-    "version" : "0.2.2",
-    "requires":["Vigilance", "PogData", "RenderLib", "requestV2"]
-  }
