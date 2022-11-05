@@ -1,7 +1,8 @@
 {
-    "latestVersion": "0.2.3",
+    "latestVersion": "0.2.4",
     "changelog": [
-        "Added Update Checker"
+        "Added /ww help",
+        "Fixed W/L ratio issue"
     ],
     "author": "encodey"
 }
