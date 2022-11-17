@@ -1,7 +1,12 @@
 {
     "latestVersion": "0.2.5",
     "changelog": [
-        "Fixed an issue with changelog displaying incorrectly"
+        "Added block breaking/placing log",
+        "Added custom prefix, can be reset with /ww resetprefix",
+        "Added custom keystone message, reset with /ww resetkeystone",
+        "Removed boldness on blacklist messages",
+        "Hovering over extra stats now shows the username",
+        "Fixed issues with entering invalid names to /wwstats"
     ],
     "author": "encodey"
 }
