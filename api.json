@@ -1,5 +1,5 @@
 {
-    "latestVersion": "0.2.5",
+    "latestVersion": "0.2.6",
     "changelog": [
         "Added block breaking/placing log",
         "Added custom prefix, can be reset with /ww resetprefix",
