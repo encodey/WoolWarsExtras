@@ -4,6 +4,7 @@
         "Added block breaking/placing log",
         "Added custom prefix, can be reset with /ww resetprefix",
         "Added custom keystone message, reset with /ww resetkeystone",
+        "Fixed an issue with having no api key",
         "Removed boldness on blacklist messages",
         "Hovering over extra stats now shows the username",
         "Fixed issues with entering invalid names to /wwstats"
