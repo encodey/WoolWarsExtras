@@ -1,0 +1,56 @@
+{
+    "categories": {
+        "stats": {
+            "x": 98.5,
+            "y": 289.5
+        },
+        "chat": {
+            "x": 239,
+            "y": 37.5
+        },
+        "mapblacklist": {
+            "x": 723,
+            "y": 196
+        }
+    },
+    "config": {
+        "stats": {
+            "killlog": true,
+            "deathlog": true,
+            "kdlog": false
+        },
+        "chat": {
+            "blocklog": false,
+            "blockchat log": true
+        },
+        "mapblacklist": {
+            "kingspass": false,
+            "fracture": false,
+            "histoire": false,
+            "temple": false,
+            "arches": false,
+            "underworld": false,
+            "sun_shrine": false,
+            "plummet": false,
+            "stoneguard": false,
+            "belle": false,
+            "courtyard": false,
+            "patio": false,
+            "factory": false,
+            "ruin": false,
+            "enable_maps": false,
+            "retro": false,
+            "lava": false,
+            "aztec": false,
+            "blocks": false,
+            "shipment": false,
+            "district": false,
+            "tumble": false,
+            "steel_works": false,
+            "dust": false,
+            "hilltop": false,
+            "galactic": false,
+            "anubis": false
+        }
+    }
+}

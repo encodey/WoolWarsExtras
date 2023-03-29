@@ -1,0 +1,8 @@
+{
+    "name": "WoolWarsExtras",
+    "description": "Quality of life Wool Wars mod - /ww for more",
+    "author": "encodey",
+    "entry": "index.js",
+    "version" : "0.2.8",
+    "requires":["Vigilance", "PogData", "RenderLib", "requestV2", "Elementa"]
+}
