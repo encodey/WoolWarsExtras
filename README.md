@@ -8,3 +8,5 @@ To install:
 - make sure you do not drag over the README.md, just the entire module folder
 
 For any support dm me @encodey#0050 on discord or join https://discord.gg/TU2Prz8N8U
+
+inshallah
